@@ -9,8 +9,7 @@
 
 【 全体の設計・構成についての説明 】
 
-MySQL(DB構成) :<br>
-システムの設計・構成 :<br>
+MySQL(DB構成)、システムの設計・構成 :https://drive.google.com/open?id=1jdmJI1IUgm19YJDuJArhHT8D6kPSlNLy<br>
 
 【 開発環境のセットアップ手順 】
 
